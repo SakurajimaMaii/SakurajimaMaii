@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - I am more commonly used programming language
 
-![Kotlin Version](https://kotlinlang.org/)
+![Kotlin Version](https://img.shields.io/badge/kotlin-v1.4.31-%2300b894)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashiro2019&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashiro2019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
