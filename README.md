@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 |  :----:  | :----:  |
 | Takisu Wind Smart Window App  | A smart window app based on the Internet of Things |
 | Xiafeng Weather App  | A weather app based on the weather in mind |
-| Yunli Music App | A simple music app |
+| Yunli Music App | [A simple music app](https://github.com/Mashiro2019/GMusic) |
 
 - I am more commonly used programming language
 
