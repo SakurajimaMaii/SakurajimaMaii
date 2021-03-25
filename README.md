@@ -2,8 +2,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on TUST
-- 🌱 I’m currently learning Kotlin
+- I’m currently working on TUST
+- I’m currently learning Kotlin
+- The following are some Android projects I developed:
+|  project name   | Project details  |
+|  :----:  | :----:  |
+| Takisu Wind Smart Window App  | A smart window app based on the Internet of Things |
+| Xiafeng Weather App  | A weather app based on the weather in mind |
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
