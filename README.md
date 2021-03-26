@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![Kotlin Version](https://img.shields.io/badge/kotlin-v1.4.31-%2300b894)
 ![cpp Version](https://img.shields.io/badge/cpp-C%2B%2B23-%230984e3)
 ![Python Version](https://img.shields.io/badge/python-v3.8.3-%23e84393)
+![java Version](https://img.shields.io/badge/java-8-%231e3799)
 - My favorite compiler
 
 ![android studio](https://img.shields.io/badge/Android%20Studio-Canary%2011-%23e17055)
