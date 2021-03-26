@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashiro2019&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashiro2019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-.. image:: https://wakatime.com/share/@2437d9e8-49d1-40cd-be26-12f990dc3b92/099505b3-a7c3-47ee-ae5a-66b32723b8bb.png
-    :target: https://wakatime.com/
+![最近工作](https://wakatime.com/share/@2437d9e8-49d1-40cd-be26-12f990dc3b92/099505b3-a7c3-47ee-ae5a-66b32723b8bb.png)
