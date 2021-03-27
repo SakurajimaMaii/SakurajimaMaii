@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![java Version](https://img.shields.io/badge/java-8-%231e3799)
 - My favorite compiler
 
-![android studio](https://img.shields.io/badge/Android%20Studio-Canary%2011-%23e17055)
+![android studio](https://img.shields.io/badge/Android%20Studio-4.1.3-%230097e6)
 ![pycharm](https://img.shields.io/badge/pycharm-2020.3-brightgreen)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=cobalt)
