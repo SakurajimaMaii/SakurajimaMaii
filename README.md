@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![android studio](https://img.shields.io/badge/Android%20Studio-Canary%2011-%23e17055)
 ![pycharm](https://img.shields.io/badge/pycharm-2020.3-brightgreen)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashiro2019&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashiro2019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://wakatime.com/share/@2437d9e8-49d1-40cd-be26-12f990dc3b92/099505b3-a7c3-47ee-ae5a-66b32723b8bb.png" width="600px" />
