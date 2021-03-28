@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2437d9e8-49d1-40cd-be26-12f990dc3b92/d67cee1a-7f18-4c08-b63e-57c1457362a3.png" /></a>
+<img src="https://wakatime.com/share/@2437d9e8-49d1-40cd-be26-12f990dc3b92/4ffbf9c8-7370-4b30-8d5a-0935ab9e81b0.svg" />
