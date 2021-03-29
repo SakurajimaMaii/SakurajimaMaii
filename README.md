@@ -39,3 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://wakatime.com/share/@2437d9e8-49d1-40cd-be26-12f990dc3b92/4ffbf9c8-7370-4b30-8d5a-0935ab9e81b0.svg" />
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SakurajimaMaii&repo=GStyleButton)](https://github.com/SakurajimaMaii/GStyleButton)
