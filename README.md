@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- I’m currently working on TUST
-- I’m currently learning Kotlin
-- The following are some Android projects I developed:
+- 📖 I’m currently working on TUST
+- 📓 I’m currently learning Kotlin
+- 👨‍💻 The following are some Android projects I developed:
 
 |  project name   | Project details  |
 |  :----:  | :----:  |
@@ -12,20 +12,21 @@ Here are some ideas to get you started:
 | Xiafeng Weather App  | A weather app based on the weather in mind |
 | Yunli Music App | [A simple music app](https://github.com/Mashiro2019/GMusic) |
 
-- Android projects currently under development
+- 🤖 Android projects currently under development
 
 |  project name   | Project details  |
 |  :----:  | :----:  |
 | GStyleButton  | [A custom Android button widget](https://github.com/SakurajimaMaii/GStyleButton) |
+| GEasyOkHttp   | [OkHttp is simply encapsulated for better use](https://github.com/SakurajimaMaii/GEasyOkHttp) |
 
-- I am more commonly used programming language
+- 🤗 I am more commonly used programming language
 
 ![Kotlin Version](https://img.shields.io/badge/kotlin-v1.4.31-%2300b894)
 ![cpp Version](https://img.shields.io/badge/cpp-C%2B%2B23-%230984e3)
 ![Python Version](https://img.shields.io/badge/python-v3.8.3-%23e84393)
 ![java Version](https://img.shields.io/badge/java-8-%231e3799)
 
-- My favorite compiler
+- 😍 My favorite compiler
 
 ![android studio](https://img.shields.io/badge/Android%20Studio-4.1.3-%230097e6)
 ![pycharm](https://img.shields.io/badge/pycharm-2020.3-brightgreen)
