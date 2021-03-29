@@ -1,11 +1,11 @@
 ### Hi！I’m 码上夏雨👋
-**The number of visits to the homepage**
+**😆 The number of visits to the homepage**
 
 [![](https://count.getloli.com/get/@SakurajimaMaii.github.readme)](https://count.getloli.com/)
 
-**Here are some ideas to get you started:**
+**😃 Here are some ideas to get you started:**
 
-- 📖 I’m currently working on TUST
+- 📖 I’m currently working on TUST👨‍🎓
 - 📓 I’m currently learning Kotlin
 
 **👨‍💻 The following are some Android projects I developed:**
