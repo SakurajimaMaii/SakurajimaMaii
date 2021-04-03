@@ -37,6 +37,6 @@
 ![pycharm](https://img.shields.io/badge/pycharm-2020.3-brightgreen)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii)
 
 <img src="https://wakatime.com/share/@2437d9e8-49d1-40cd-be26-12f990dc3b92/bdcbf242-f776-46a9-8a85-cbe8b429a9e0.svg" />
