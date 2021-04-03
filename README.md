@@ -39,4 +39,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://wakatime.com/share/@2437d9e8-49d1-40cd-be26-12f990dc3b92/4ffbf9c8-7370-4b30-8d5a-0935ab9e81b0.svg" />
+<img src="https://wakatime.com/share/@2437d9e8-49d1-40cd-be26-12f990dc3b92/bdcbf242-f776-46a9-8a85-cbe8b429a9e0.svg" />
