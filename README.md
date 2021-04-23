@@ -14,7 +14,7 @@
 |  :----:  | :----:  |
 | Takisu Wind Smart Window App  | A smart window app based on the Internet of Things |
 | Xiafeng Weather App  | A weather app based on the weather in mind |
-| Yunli Music App | [A simple music app](https://github.com/Mashiro2019/GMusic) |
+| Yunli Music App | [A simple music app](https://github.com/SakurajimaMaii/GMusic-Compose-Samples) |
 
 **🤖 Android projects currently under development**
 
