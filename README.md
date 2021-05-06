@@ -5,7 +5,6 @@
 
 **😃 Here are some ideas to get you started:**
 
-- 📖 I’m currently working on TUST👨‍🎓
 - 📓 I’m currently learning Kotlin
 
 **👨‍💻 The following are some Android projects I developed:**
