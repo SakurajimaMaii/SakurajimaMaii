@@ -23,6 +23,15 @@
 | GEasyOkHttp   | [OkHttp is simply encapsulated for better use](https://github.com/SakurajimaMaii/GEasyOkHttp) |
 | GUtils  | [Some commonly used Android development tools](https://github.com/SakurajimaMaii/GUtils) |
 
+**🏢 Recent work**
+
+I have created multiple versions of Yunli music<sup>©</sup> software for you to learn
+|  Development method   | Project Url  | Development method | Project Url |
+|  :----:  | :----:  | :----:  | :----:  |
+| ![Jetpack Compose](https://img-blog.csdnimg.cn/20210602155802597.png)  | [GMusic-Compose-Samples](https://github.com/SakurajimaMaii/GMusic-Compose-Samples) | ![Java](https://img-blog.csdnimg.cn/20210602160148420.png)   | [GMusic-Java-Samples](https://github.com/SakurajimaMaii/GMusic-Java-Samples.git) |
+| ![Kotlin](https://img-blog.csdnimg.cn/2021060216072348.png)  | [GMusic-Kotlin-Samples](https://github.com/SakurajimaMaii/GMusic.git) | ![HarmongOS](https://img-blog.csdnimg.cn/2021060216102417.png)   | [GMusic-HarmongOS-Samples](https://github.com/SakurajimaMaii/GMusic-HarmongOS-Samples.git) |
+
+
 **🤗 I am more commonly used programming language**
 
 ![Kotlin Version](https://img.shields.io/badge/kotlin-v1.4.31-%2300b894)
