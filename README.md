@@ -19,8 +19,8 @@
 
 |  project name   | Project details  |
 |  :----:  | :----:  |
-| GStyleButton  | [A custom Android button widget](https://github.com/SakurajimaMaii/GStyleButton) |
-| GEasyOkHttp   | [OkHttp is simply encapsulated for better use](https://github.com/SakurajimaMaii/GEasyOkHttp) |
+| ShapeButton  | [A custom Android button widget](https://github.com/SakurajimaMaii/ShapeButton) |
+| StarBar  | [A custom Android starbar widget](https://github.com/SakurajimaMaii/StarBar) |
 | GUtils  | [Some commonly used Android development tools](https://github.com/SakurajimaMaii/GUtils) |
 
 **🏢 Recent work**
