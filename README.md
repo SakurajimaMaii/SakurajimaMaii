@@ -30,3 +30,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=default&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&count_private=true)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
