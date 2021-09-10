@@ -3,19 +3,20 @@
 
 [![](https://count.getloli.com/get/@SakurajimaMaii.github.readme)](https://count.getloli.com/)
 
-**😃 Here are some ideas to get you started:**
+**😃 Current field**
 
-- 📓 I’m currently learning Kotlin
+- 📓 Mainly engaged in Android development
 
-**👨‍💻 The following are some Android projects I developed:**
+**👨‍💻 The Android project I developed:**
 
-|  project name   | Project details  |
+|  project name   | Project details and link  |
 |  :----:  | :----:  |
-| Takisu Wind Smart Window App  | A smart window app based on the Internet of Things |
-| Xiafeng Weather App  | A weather app based on the weather in mind |
-| Yunli Music App | [A simple music app](https://github.com/SakurajimaMaii/GMusic-Compose-Samples) |
+| Takisu Wind Smart Window  | A smart window app based on the Internet of Things |
+| Xiafeng Weather   | [A weather app based on the weather in mind](https://github.com/SakurajimaMaii/XiaFengWeather) |
+| Yunli Music | [A simple music app](https://github.com/SakurajimaMaii/GMusic-Compose-Samples) |
+| Maker | [Maker App based on Compose](https://github.com/SakurajimaMaii/Maker-Compose-Samples) |
 
-**🤖 Android projects currently under development**
+**🤖 Android dependency library I developed:**
 
 |  project name   | Project details  |
 |  :----:  | :----:  |
@@ -23,21 +24,9 @@
 | StarBar  | [A custom Android starbar widget](https://github.com/SakurajimaMaii/StarBar) |
 | GUtils  | [Some commonly used Android development tools](https://github.com/SakurajimaMaii/GUtils) |
 
-**🏢 Recent work**
-
-I have created multiple versions of Yunli music<sup>©</sup> software for you to learn
-|  Development method   | Project Url  | Development method | Project Url |
-|  :----:  | :----:  | :----:  | :----:  |
-| ![Jetpack Compose](https://img-blog.csdnimg.cn/20210602155802597.png)  | [GMusic-Compose-Samples](https://github.com/SakurajimaMaii/GMusic-Compose-Samples) | ![Java](https://img-blog.csdnimg.cn/20210602160148420.png)   | [GMusic-Java-Samples](https://github.com/SakurajimaMaii/GMusic-Java-Samples.git) |
-| ![Kotlin](https://img-blog.csdnimg.cn/2021060216072348.png)  | [GMusic-Kotlin-Samples](https://github.com/SakurajimaMaii/GMusic.git) | ![HarmongOS](https://img-blog.csdnimg.cn/2021060216102417.png)   | [GMusic-HarmongOS-Samples](https://github.com/SakurajimaMaii/GMusic-HarmongOS-Samples.git) |
-
-
 **🤗 I am more commonly used programming language**
 
-![Kotlin Version](https://img.shields.io/badge/kotlin-v1.4.31-%2300b894)
-![cpp Version](https://img.shields.io/badge/cpp-C%2B%2B23-%230984e3)
-![Python Version](https://img.shields.io/badge/python-v3.8.3-%23e84393)
-![java Version](https://img.shields.io/badge/java-8-%231e3799)
+![Kotlin Version](https://img.shields.io/badge/kotlin-v1.4.31-%2300b894) ![cpp Version](https://img.shields.io/badge/cpp-C%2B%2B23-%230984e3) ![Python Version](https://img.shields.io/badge/python-v3.8.3-%23e84393) ![java Version](https://img.shields.io/badge/java-8-%231e3799)
 
 **😍 My favorite compiler**
 
