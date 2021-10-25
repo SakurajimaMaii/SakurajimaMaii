@@ -11,23 +11,6 @@
 
 - 📓 Currently mainly engaged in Android development
 
-**👨‍💻 The Android project I developed:**
-
-|  project name   | Project details and link  |
-|  :----:  | :----:  |
-| Takisu Wind Smart Window  | A smart window app based on the Internet of Things |
-| Xiafeng Weather   | [A weather app based on the weather in mind](https://github.com/SakurajimaMaii/XiaFengWeather) |
-| Yunli Music | [A simple music app](https://github.com/SakurajimaMaii/GMusic-Compose-Samples) |
-| Maker | [Maker App based on Compose](https://github.com/SakurajimaMaii/Maker-Compose-Samples) |
-
-**🤖 Android dependency library I developed:**
-
-|  project name   | Project details  |
-|  :----:  | :----:  |
-| ShapeButton  | [A custom Android button widget](https://github.com/SakurajimaMaii/ShapeButton) |
-| StarBar  | [A custom Android starbar widget](https://github.com/SakurajimaMaii/StarBar) |
-| GUtils  | [Some commonly used Android development tools](https://github.com/SakurajimaMaii/GUtils) |
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=default&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&count_private=true)
 
