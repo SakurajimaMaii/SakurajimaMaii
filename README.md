@@ -11,8 +11,8 @@
 
 - 📓 Currently mainly engaged in Android development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=default&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=default&count_private=true&bg_color=30,75A7FF,00FCFC&title_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&count_private=true&layout=compact&bg_color=30,75A7FF,00FCFC&title_color=000000)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
