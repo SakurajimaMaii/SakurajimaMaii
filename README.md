@@ -3,7 +3,7 @@
 
 [![](https://count.getloli.com/get/@SakurajimaMaii.github.readme)](https://count.getloli.com/)
 
-- 🚀 I use daily: ![Kotlin Version](https://img.shields.io/badge/Kotlin-1.5.30-%2300d2d3?logo=kotlin) ![cpp Version](https://img.shields.io/badge/cpp-C%2B%2B23-%230984e3?logo=C%2B%2B&logoColor=659ad2) ![Python Version](https://img.shields.io/badge/python-v3.8.3-%23e84393?logo=Python&logoColor=ff9f43) ![java Version](https://img.shields.io/badge/java-8-%231e3799?logo=java&logoColor=eb2f06)
+- 🚀 I use daily: <img src="https://user-images.githubusercontent.com/46998172/188528750-03b1eaa4-eb23-4a5a-becd-5fcf393f2ab6.png" width="35"/> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="40"/> <img src="https://user-images.githubusercontent.com/46998172/188529229-93a41aef-2fe8-4ba8-af76-6579ad33c73e.png" width="40"/> <img src="https://user-images.githubusercontent.com/46998172/188529289-597cb8c5-0bbb-42ae-988d-2f9dd9b284db.png" width="40"/>
 
 - 👨‍💼 I work use: ![VSCode](https://img.shields.io/badge/-VSCode-%231e3799?logo=VisualStudioCode) ![Git](https://img.shields.io/badge/-Git-%232d3436?logo=git&logoColor=d35400) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%2357606f?logo=AndroidStudio&logoColor=2ed573) ![Android Studio](https://img.shields.io/badge/-Github-%232f3542?logo=Github&logoColor=ffffff) 
 
