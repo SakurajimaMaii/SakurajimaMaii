@@ -1,4 +1,7 @@
 ### Hi！I’m Vast Gui👋
+
+你的压力来源于，你无法自律，只是假装努力，现状跟不上内心的欲望，所以你焦虑又恐慌。
+
 **😆 The number of visits to the homepage**
 
 [![](https://count.getloli.com/get/@SakurajimaMaii.github.readme)](https://count.getloli.com/)
@@ -11,8 +14,6 @@
 
 - 📓 Currently mainly engaged in Android development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=default&count_private=true&bg_color=30,75A7FF,00FCFC&title_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&count_private=true&layout=compact&bg_color=30,75A7FF,00FCFC&title_color=000000)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakurajimaMaii&show_icons=true&theme=onedark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaii&count_private=true&layout=compact&theme=onedark)
+![Github奖杯🏆start](https://github-profile-trophy.vercel.app/?username=SakurajimaMaii&theme=onedark)
